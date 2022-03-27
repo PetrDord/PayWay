@@ -2,6 +2,7 @@
 V tomto repozitáři najdete 2 zdrojevé kódy.
 
 1.kód index.php ověřuje podpis zprávy se serveru.
+<br>
 Zdrojový kód:
 ![](img/1.png)
 Odpověď:
