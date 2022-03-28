@@ -12,10 +12,10 @@ Odpověď:
 2.kód p.php posílá echo zpravů, kterou server akceptuje a odpovídá na ní.
 <br>
 Zdrojový kód:
-![](img/3.png)
+![](img/p.png)
 <br>
 Odpověď:
-![](img/4.png)
+![](img/p1.png)
 <br>
 Odpověď:
-![](img/5.png)
+![](img/p2.png)
