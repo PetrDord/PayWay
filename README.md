@@ -9,7 +9,7 @@ Zdrojový kód:
 Odpověď:
 ![](img/2.png)
 <br>
-2.kód p.php posílí echo zpravů. kterou server akcepruje a odpoví na ní.
+2.kód p.php posílá echo zpravů, kterou server akceptuje a odpovídá na ní.
 <br>
 Zdrojový kód:
 ![](img/3.png)
